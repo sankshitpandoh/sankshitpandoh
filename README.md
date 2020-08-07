@@ -2,9 +2,12 @@
 
 <p align="center"><img width=50% src="https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Ffacebook%2F000%2F021%2F807%2Fig9OoyenpxqdCQyABmOQBZDI0duHk2QZZmWg2Hxd4ro.jpg"></p>
 
-[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ByPandoh/)](https://twitter.com/ByPandoh/)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sankshit-pandoh/)](https://www.linkedin.com/in/sankshit-pandoh/)
-[![Email](https://img.shields.io/badge/-Gmail-222222?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sankshit02pandoh.sp@gmail.com)](mailto:sankshit02pandoh.sp@gmail.com)
+<p align="center">
+  <a href="https://twitter.com/ByPandoh/"><img src="https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ByPandoh/"></a>
+  <a href="https://www.linkedin.com/in/sankshit-pandoh/"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sankshit-pandoh/"></a>
+  <a href="mailto:sankshit02pandoh.sp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-222222?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sankshit02pandoh.sp@gmail.com"></a>
+</p>
+
 
 
 👨‍🎓 Industrial Engineer from Pandit DeenDayal Petroleum University (Batch of 2020) 
