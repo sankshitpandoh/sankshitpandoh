@@ -24,12 +24,14 @@ export default () => ({
   },
   technologies: {
     frontEnd: {
-      js: ["react", "jQuery", "vue"],
+      js : ["ECMA6 Standards vanilla JS"],
+      frameworks: ["react", "jQuery", "vue"],
       css: ["materialize", "vuetify", "bootstrap"]
     },
     backEnd: {
-      js: ["node", "express" , "socket"],
-      misc: ["bash" , "C++"]
+      js: ["node"],
+      frameworks: ["express" , "fastify" , "loopback"],
+      misc: ["bash" , "C++", "python"]
     },
     databases: ["mongo"]
   }
