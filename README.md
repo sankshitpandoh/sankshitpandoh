@@ -20,7 +20,7 @@ export default () => ({
   email: "sankshit02pandoh.sp@gmail.com",
   professionalInfo : {
     currentPosition: "Software Developer Engineer - 1",
-    company: "Signzy"
+    company: "Mate Labs | Fasted Auto ML engine in supply chain"
   },
   technologies: {
     frontEnd: {
