@@ -12,6 +12,8 @@
 
 👨‍🎓 Industrial Engineer from Pandit DeenDayal Petroleum University (Batch of 2020) 
 
+workProfile: https://github.com/sankshit
+
 ```js
 export default () => ({
   pronouns: "He" | "Him",
@@ -20,7 +22,7 @@ export default () => ({
   email: "sankshit02pandoh.sp@gmail.com",
   professionalInfo : {
     currentPosition: "Software Developer Engineer - 1",
-    company: "Mate Labs | Fasted Auto ML engine in supply chain"
+    company: "Mate Labs | Fasted Auto ML engine in supply chain",
   },
   technologies: {
     frontEnd: {
